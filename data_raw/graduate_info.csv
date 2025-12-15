@@ -1,0 +1,101 @@
+student_id,full_name,major,grad_year
+ SV4000,Nguyen van A,Kinh te,2022
+SV4001,pham   thi d,qtkd ,2023
+ SV4002,LE   VAN  C,Kinh tế,2021
+SV4003 ,Nguyen van A,cntt ,2022
+SV4004 ,Nguyen van A,QTKD,2021
+SV4005 ,pham   thi d,qtkd ,2023
+SV4006 ,pham   thi d,QTKD,2022
+ SV4007,LE   VAN  C,Quan tri kinh doanh,2022a
+sv4008,pham   thi d,kinh  te,2023
+SV4009,Nguyen van A,QTKD,2023
+SV4010,Hoang   van e,Quan tri kinh doanh,2022
+sv4011,pham   thi d,Kinh te, 2023
+sv4012,Hoang   van e,Quan tri kinh doanh,2023
+SV4013,  Tran  thi B,kinh  te,2021
+SV4014 ,Hoang   van e,Kinh tế,2023
+ SV4015,pham   thi d,Quan tri kinh doanh,2021
+SV4016 ,Nguyen van A,QTKD,2023
+SV4017,Hoang   van e,Cong nghe thong tin,2022
+SV4018 ,Hoang   van e,Kinh tế,2021
+SV4019 ,Nguyen van A,CNTT,2023
+sv4020,Hoang   van e,CNTT,2022
+sv4021,Hoang   van e,CNTT,2021
+ SV4022,LE   VAN  C,Kinh te,2022a
+ SV4023,Hoang   van e,QTKD, 2023
+ SV4024,Hoang   van e,QTKD,2022a
+SV4025,LE   VAN  C,Cong nghe thong tin,2022a
+sv4026,LE   VAN  C,kinh  te,2022
+SV4027,pham   thi d,cntt , 2023
+SV4028,Nguyen van A,qtkd ,2023
+SV4029,LE   VAN  C,CNTT,2021
+ SV4030,pham   thi d,Kinh te,2023
+SV4031,  Tran  thi B,Cong nghe thong tin,2021
+ SV4032,  Tran  thi B,cntt , 2023
+SV4033 ,Nguyen van A,Kinh te,2021
+ SV4034,LE   VAN  C,cntt ,2023
+sv4035,  Tran  thi B,Cong nghe thong tin,2022a
+ SV4036,Hoang   van e,Cong nghe thong tin,2023
+SV4037 ,  Tran  thi B,cntt ,2022
+ SV4038,  Tran  thi B,QTKD, 2023
+SV4039,Nguyen van A,qtkd ,2022a
+ SV4040,Nguyen van A,Kinh te,2022a
+ SV4041,Nguyen van A,Cong nghe thong tin,2022a
+SV4042,pham   thi d,cntt ,2022
+ SV4043,Nguyen van A,Cong nghe thong tin,2022a
+ SV4044,pham   thi d,Quan tri kinh doanh,2022
+ SV4045,  Tran  thi B,CNTT, 2023
+SV4046 ,Nguyen van A,Cong nghe thong tin,2022a
+SV4047,Hoang   van e,Cong nghe thong tin,2023
+ SV4048,pham   thi d,Kinh tế,2023
+sv4049,pham   thi d,kinh  te,2022
+SV4050 ,Nguyen van A,Cong nghe thong tin,2022
+SV4051,LE   VAN  C,Kinh te,2023
+SV4052 ,Hoang   van e,kinh  te,2022
+SV4053 ,LE   VAN  C,Quan tri kinh doanh,2023
+SV4054,pham   thi d,CNTT,2021
+SV4055 ,Nguyen van A,Kinh tế,2021
+ SV4056,pham   thi d,CNTT,2021
+ SV4057,Hoang   van e,Quan tri kinh doanh,2022a
+SV4058 ,LE   VAN  C,kinh  te,2021
+sv4059,Nguyen van A,Quan tri kinh doanh,2022
+ SV4060,  Tran  thi B,kinh  te,2021
+SV4061 ,  Tran  thi B,Kinh te,2022
+SV4062 ,LE   VAN  C,CNTT,2022a
+SV4063,  Tran  thi B,qtkd ,2023
+ SV4064,  Tran  thi B,qtkd ,2023
+SV4065,Hoang   van e,QTKD,2023
+SV4066 ,LE   VAN  C,QTKD, 2023
+ SV4067,Nguyen van A,QTKD,2021
+SV4068,Hoang   van e,cntt ,2023
+ SV4069,pham   thi d,Kinh te,2022
+sv4070,pham   thi d,qtkd ,2021
+sv4071,Nguyen van A,QTKD,2022a
+SV4072,  Tran  thi B,kinh  te,2022a
+sv4073,LE   VAN  C,Kinh te,2022
+SV4074,pham   thi d,cntt ,2022
+ SV4075,Hoang   van e,qtkd , 2023
+SV4076,pham   thi d,Kinh tế,2021
+ SV4077,LE   VAN  C,Cong nghe thong tin, 2023
+sv4078,Nguyen van A,kinh  te,2021
+ SV4079,pham   thi d,QTKD, 2023
+SV4080,Hoang   van e,qtkd ,2022a
+sv4081,Hoang   van e,Kinh tế,2021
+ SV4082,Hoang   van e,Kinh tế,2022a
+ SV4083,  Tran  thi B,Cong nghe thong tin,2021
+sv4084,Hoang   van e,CNTT,2023
+SV4085,  Tran  thi B,Kinh tế,2022
+SV4086 ,LE   VAN  C,CNTT, 2023
+sv4087,Nguyen van A,Cong nghe thong tin,2022
+SV4088 ,  Tran  thi B,cntt , 2023
+SV4089,Hoang   van e,qtkd ,2023
+ SV4090,pham   thi d,cntt ,2023
+SV4091,Hoang   van e,cntt ,2021
+ SV4092,  Tran  thi B,Kinh te,2022
+sv4093,Hoang   van e,Cong nghe thong tin, 2023
+SV4094 ,  Tran  thi B,qtkd ,2021
+SV4095 ,  Tran  thi B,QTKD,2022a
+ SV4096,pham   thi d,Quan tri kinh doanh,2022a
+sv4097,  Tran  thi B,qtkd , 2023
+SV4098 ,  Tran  thi B,Quan tri kinh doanh,2023
+SV4099 ,  Tran  thi B,QTKD,2022
